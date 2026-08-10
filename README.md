@@ -1,9 +1,3 @@
-
----
-
-# 3. Line-Follower Robot
-
-```markdown
 # Line Follower Robot
 
 A ROS 2-based autonomous mobile robot designed to follow a predefined path using sensor-based line detection.
